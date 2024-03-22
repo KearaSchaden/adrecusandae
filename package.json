@@ -1,0 +1,18 @@
+{
+  "engines": {
+    "pnpm": ">=8.6.5"
+  },
+  "devDependencies": {
+    "turbo": "^1.10.15"
+  },
+  "name": "adrecusandae",
+  "author": "JerrySchimmel",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KearaSchaden/adrecusandae.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KearaSchaden/adrecusandae.git/issues"
+  },
+  "version": "1.0.0"
+}
